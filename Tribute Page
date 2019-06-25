@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+
+<main id="main">
+  <h1 id="title">Barney Stinson
+    <h2> American TV Cultural Icon</h2>  
+    </title>
+ 
+<figure id="img-div">
+  <img id="image"
+      src="https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555388300/shape/mentalfloss/mother_primary.jpg" alt"himym-cast"/> 
+  <figcaption id="img-caption"> Pictured left to right-Lilly, Marshall, Barney, Robint and Ted sit in MacClaren's Pub.</figcaption> </figure>
+      
+<p1 id="tribute-info">
+  
+  <h3>Facts About Barney</h3>
+  
+  <ul>
+  <li> Barney Stinson is a character played by Neil Patrick Harris in the TV Show How I Met Your Mother 2005-2014  </li>
+  <li>Barney appeared in 208 epsisodes as the womanizing user who frequenly scores with attactive woman by running plays from his "Play Book"</li>
+    <li>Barney is "Best Friends" with Ted Mosby whom he met at a urinal at MacClaren's Pub.  Later in the series Ted will develop an even closer bond with Ted's real best friend Marshall Erikson</li>
+    <li>Barney works for Goliath National Bank or GNB.  When asked what he does for GNB is his reply is always "Please".  We later find our that its an acronymn for, <u>P</u>roivde <u>L</u>egal <u>E</u>xculpation <u>A</u>nd <u>S</u>ign <u>E</u>verything. 
+      <li>Barney falls in love with Robin damaging his friendship with Ted, who also loves Robin.  In the end Barney executes a play from his Play Book called the Robin in order to propose to her</li>
+    <li>Barney has many catch phrases on the show but his most famous are Legen...wait for it...dary Lengendary and Suit Up!!</li>
+    
+    </ul>
+  
+  </p1>
+</main>  
+
+<a id="tribute-link" href="https://en.wikipedia.org/wiki/Barney_Stinson" target="_blank"> For More Information on Barney Stinson </a>
+
+<style>
+
+html {
+  font-size: 10px;
+}
+body{
+  font-size: 10px;
+  color: black;
+  background-color: silver;
+  text align: center;
+  margin: 0px;
+     
+}
+h1{
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  font-family: "Time New Roman", Times, serif;
+}
+h2{
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h3{font-size: 25px;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  font-family: "Times New Roman", Times, serif;}
+
+img {
+  max-width: 60%;
+  display: block;
+  height: auto;
+  margin: 0 auto;}
+  
+#img-div {
+  background: gray;
+  padding: 10px;
+  margin: 0px;
+
+   
+}
+figcaption {
+  text-align: center;
+  font-size: 14px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+} 
+
+p1 {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  font-size: 25px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  
+
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;}
+
+li {
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+
+a{ 
+text-align: justify;
+font-size: 12px;
+color: black;
+font-family: "Arial"
+}
+
+</style>
